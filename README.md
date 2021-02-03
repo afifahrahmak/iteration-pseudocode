@@ -231,7 +231,3 @@ var totalLempar = 0;
 
 // Your code here
 ```
-
-[Answers](./pseudocode-and-loopings-answered.md)
-
-[**Back to Home**](./../README.md)
